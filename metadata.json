@@ -1,0 +1,6 @@
+{
+  "name": "Water Tank Problem Solver & Visualizer",
+  "description": "Interactive algorithmic simulator for the Water Tank Problem (trapping rain water) with SVG graphics, grid table matrices, step-by-step two-pointer playback, and solution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
